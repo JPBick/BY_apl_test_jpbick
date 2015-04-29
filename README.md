@@ -1,3 +1,4 @@
-# BY_apl_test_jpbick
+# Project discription
+Since I do not want to distribute the test, I give no discription at the moment
 
 
